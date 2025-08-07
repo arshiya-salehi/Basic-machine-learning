@@ -1,0 +1,14 @@
+pandas==2.2.3
+numpy==2.2.5
+matplotlib
+otter-grader==5.5.0
+scikit-learn
+pandoc
+simplejson
+nltk
+jupyter_client
+ipykernel
+pypdf
+pytest
+jupyterlab
+scipy
