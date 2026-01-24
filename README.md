@@ -1,1 +1,1 @@
-# Basic-machine-learning
+# Mini-Machine-Learning-Project
